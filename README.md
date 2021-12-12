@@ -1,2 +1,2 @@
 # simple gRPC server
-Maven plugin is used to create Java stub from proto file
+Maven plugin is used to create Java stubs from proto file
